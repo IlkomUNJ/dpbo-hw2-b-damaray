@@ -11,8 +11,28 @@ NIM : 1313624016
 5. This assignment is due October 20th, 23:55 AM
 
 # Features Implemented (list all completed)
-1. ...............
-2. 
+1.	Register new Buyer
+2.	Login system for Buyers
+3.	Automatic ID generation for all users
+4.	Upgrade Buyer to become Seller
+5.	View All Buyers
+6.	View All Sellers
+7.	Search Buyer/Seller by ID
+8.	Remove Buyer/Seller/Bank Account
+9.	Create Bank Account for each Buyer and Seller
+10.	Deposit and Withdraw balance
+11.	Check account balance
+12.	Automatic transfer between Buyer and Seller during purchase
+13.	Add new item to Seller inventory
+14.	View Seller inventory
+15.	Buyer can view and buy items from Seller
+16.	Automatic total price calculation and stock deduction
+17.	Record all transactions with unique ID and status
+18.	Display list of all transactions
+19.	Input validation for numbers and text
+20.	Menu-based terminal simulation system
+21.	Automatic memory cleanup for dynamic data
+
 
 # Collaborators (The person you learned from)
 1. ..........
@@ -21,10 +41,10 @@ NIM : 1313624016
 1. ...........
 
 # AI Assistance
-AI Tools: .............
+AI Tools: chatgpt
 
 Paid AI Plugin (state none, if not subscribed): .............
 
-Total Prompts used (int estimate): .............
+Total Prompts used (int estimate): 8
 
-Dominant prompt used for (seek solution / implement ideas) : ..............
+Dominant prompt used for (seek solution / implement ideas) : seek solution
